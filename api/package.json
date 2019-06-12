@@ -1,0 +1,32 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require intelli-espower-loader -R mochawesome",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^6.0.2",
+    "mochawesome": "^3.1.1",
+    "multer": "^1.4.1",
+    "mysql2": "^1.6.5",
+    "mz": "^2.7.0",
+    "nodemon": "^1.18.10",
+    "power-assert": "^1.6.1",
+    "scanf": "^1.0.2",
+    "sequelize": "^4.43.2",
+    "supertest": "^3.4.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
