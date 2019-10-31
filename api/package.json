@@ -22,7 +22,7 @@
     "nodemon": "^1.18.10",
     "power-assert": "^1.6.1",
     "scanf": "^1.0.2",
-    "sequelize": "^4.43.2",
+    "sequelize": "^5.15.1",
     "supertest": "^3.4.2"
   },
   "directories": {
